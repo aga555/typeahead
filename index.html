@@ -22,14 +22,13 @@
 
     const cities = [];
     fetch(endpoint)
-        .then(blob=>blob.json())
-        .then(data=>cities.push( ...data));
+        .then(blob => blob.json())
+        .then(data => cities.push(...data))
+
     function findMatches(wordToMach, cites) {
-        return cites.filter(place=>
-        {
-            const regex = new RegExp(wordToMach,'gi');
-            //here we need to figure
-        return place.city.match(regex);
+        return cites.filter(place => {
+            const regex = new RegExp(wordToMach, 'gi');
+            return place.city.match(regex);
         })
 
     }

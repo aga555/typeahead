@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d20f61d6-20e0-4f9d-8b03-da34e1aa103f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -47,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584133503262</updated>
-      <workItem from="1584133504439" duration="3174000" />
+      <workItem from="1584133504439" duration="3342000" />
     </task>
     <task id="LOCAL-00001" summary="#first commit">
       <created>1584133835419</created>
@@ -77,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584175897119</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="style css">
+      <created>1584176829828</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584176829828</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,12 +93,13 @@
     <MESSAGE value="#first commit" />
     <MESSAGE value="#endpoint cioty json link" />
     <MESSAGE value="#fetch endpoint" />
-    <option name="LAST_COMMIT_MESSAGE" value="#fetch endpoint" />
+    <MESSAGE value="style css" />
+    <option name="LAST_COMMIT_MESSAGE" value="style css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1584175896507">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1584176829140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584175896507" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584176829140" />
   </component>
 </project>
