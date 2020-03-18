@@ -49,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584133503262</updated>
       <workItem from="1584133504439" duration="4693000" />
-      <workItem from="1584561600772" duration="1207000" />
+      <workItem from="1584561600772" duration="1342000" />
     </task>
     <task id="LOCAL-00001" summary="#first commit">
       <created>1584133835419</created>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584562333708</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="#function displayMatches addEvent on keyUp">
+      <created>1584562844427</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584562844427</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +139,8 @@
     <MESSAGE value="#fetch match cities" />
     <MESSAGE value="#fetch match cities or staate" />
     <MESSAGE value="#function displayMatches addEvent on change" />
-    <option name="LAST_COMMIT_MESSAGE" value="#function displayMatches addEvent on change" />
+    <MESSAGE value="#function displayMatches addEvent on keyUp" />
+    <option name="LAST_COMMIT_MESSAGE" value="#function displayMatches addEvent on keyUp" />
   </component>
   <component name="WindowStateProjectService">
     <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1584177019097">
