@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d20f61d6-20e0-4f9d-8b03-da34e1aa103f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584133503262</updated>
       <workItem from="1584133504439" duration="4693000" />
-      <workItem from="1584561600772" duration="1889000" />
+      <workItem from="1584561600772" duration="1995000" />
     </task>
     <task id="LOCAL-00001" summary="#first commit">
       <created>1584133835419</created>
@@ -121,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584563109720</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="#fix function diplayMatches map Place to li">
+      <created>1584563565574</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584563565574</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +154,8 @@
     <MESSAGE value="#function displayMatches addEvent on change" />
     <MESSAGE value="#function displayMatches addEvent on keyUp" />
     <MESSAGE value="#fix function diplayMatches" />
-    <option name="LAST_COMMIT_MESSAGE" value="#fix function diplayMatches" />
+    <MESSAGE value="#fix function diplayMatches map Place to li" />
+    <option name="LAST_COMMIT_MESSAGE" value="#fix function diplayMatches map Place to li" />
   </component>
   <component name="WindowStateProjectService">
     <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1584177019097">
